@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522254911731",
+    "firebase_url": "https://tharindu-4c99b.firebaseio.com",
+    "project_id": "tharindu-4c99b",
+    "storage_bucket": "tharindu-4c99b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522254911731:android:0e931c35d47feb2be74f86",
+        "android_client_info": {
+          "package_name": "com.example.ui3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522254911731-mc7im2i4ajms6o50hk9q026e4ja6lk6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUgb1QHp3zcp3RX3fGYpjv0GbfKUzf75g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522254911731-mc7im2i4ajms6o50hk9q026e4ja6lk6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
